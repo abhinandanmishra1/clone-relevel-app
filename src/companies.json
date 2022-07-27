@@ -1,0 +1,46 @@
+[
+  {
+    "id" : "1",
+    "name": "Nokia"
+  },
+  {
+    "id" : "2",
+    "name": "Samsung"
+  },
+  {
+    "id" : "3",
+    "name": "Apple"
+  },
+  {
+    "id" : "4",
+    "name": "Fico"
+  },
+  {
+    "id" : "5",
+    "name": "Tata"
+  },
+  {
+    "id" : "6",
+    "name": "Reliance"
+  },
+  {
+    "id" : "7",
+    "name": "Facebook"
+  },
+  {
+    "id" : "8",
+    "name": "Google"
+  },
+  {
+    "id" : "9",
+    "name": "LinkedIn"
+  },
+  {
+    "id" : "10",
+    "name": "Walmart"
+  },
+  {
+    "id" : "11",
+    "name": "Sigma"
+  }
+]
